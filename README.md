@@ -16,7 +16,7 @@
 ## <img align="center"  height =50px src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif"> About Me <a id = "about"></a>
 
 - 🤔&nbsp; Exploring new technologies and developing programming insights.
-- ⭐ Data Scientist intern <a href="https://technocolabs.com/"> TechnoColabs</a>. 
+- ⭐ Data Scientist <a href="[https://technocolabs.com/](https://programmersforce.com/)"> Programmer Force Ptv Ltd</a>. 
 - 🎓 Computer Science Graguate From <a href="https://www.comsats.edu.pk">COMSATS University Islamabad (CUI)</a>
 - 🧠&nbsp;I'am currently learning Machine Learning and Artificial Intelligance.
 - 📊&nbsp;I'am Gooogle Certified Data Analyst.
