@@ -1,181 +1,99 @@
-# Hey there<img src="https://github.com/sharur7/sharur7-profile-readme/blob/master/wave.gif" width="30px"><br>I am Maqbool Kaxmi.
-
-
-
+# Hey there <img src="https://github.com/sharur7/sharur7-profile-readme/blob/master/wave.gif" width="30px"><br>I am Syed Maqbool (Maqbool Kazmi)
 
 <div align="center">
 
-  ###  "You Don't have to be Great to start, But you have to start to be Great" 
+  ### "You don't have to be great to start, but you have to start to be great."
 
 </div>
 
+---
 
+## <img align="center" height="45px" src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif"> About Me <a id="about"></a>
 
+- 🚀 **AI Engineer & Data Scientist** at **Machine Learning1 Pvt. Ltd**, building low-latency LLM systems, Agentic AI workflows, and production Computer Vision pipelines.
+- 🐳 **Container & Inference Optimization:** Reduced a **75 GB Docker image to under 5 GB** (>93% reduction) for **NIST FRTE/FRVT (1:1 & 1:N) Face Recognition** benchmarks, and cut LLM inference latency from **4.0s to <1.5s** via quantization and **vLLM**.
+- 🛠️ **Agentic AI & Tooling:** Architected and deployed **130+ Model Context Protocol (MCP) tools** for secure enterprise agent tool-calling (**Barie AI**).
+- 🔍 **Enterprise RAG & Evaluation:** Built Human-in-the-Loop compliance RAG pipelines (**Shufti 2.0** for KYC/KYB/AML) with automated **DeepEval** quality benchmarks and fine-tuned **LLaMA-3 / Qwen-2** models across 2,200+ document types (cutting compute by 40%).
+- 🎓 **BS in Computer Science** from **COMSATS University Islamabad (CUI)** | **2025 Aspire Leaders Program Fellow**.
+- 💬 Always open to discussing **LLMs, Agentic AI (MCP), RAG Evaluation, MLOps, and Inference Optimization**.
 
+<p><img align="right" width="260px" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="AI Engineering" /></p>
 
-## <img align="center"  height =50px src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif"> About Me <a id = "about"></a>
+## 🛠 Tech Stack & Core Tools
 
-- 🤔&nbsp; Exploring new technologies and developing programming insights.
-- ⭐ Data Scientist <a href="https://programmersforce.com/"> Programmer Force Ptv Ltd</a>. 
-- 🎓 Computer Science Graguate From <a href="https://www.comsats.edu.pk">COMSATS University Islamabad (CUI)</a>
-- 🧠&nbsp;I'am currently learning Machine Learning and Artificial Intelligance.
-- 📊&nbsp;I'am Gooogle Certified Data Analyst.
-- 🌟&nbsp;I'am passionate about Artificial intelligance,Deep Learning and Competitive Programming.
-- ❤️‍&nbsp;Ask me about anything i will be always happy to help. 
-<br>
-
-
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-
-
-## <img align="center"  height =50px src="images/skills.gif">Stack I Work With
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+- **AI / LLMs & Agents:** PyTorch, TensorFlow, LangChain, LangGraph, Model Context Protocol (MCP), vLLM, DeepEval, Hugging Face (LLaMA-3, Qwen-2)
+- **Computer Vision:** OpenCV, Ultralytics YOLO, NIST Face Recognition (1:1 & 1:N), OCR & Document Intelligence
+- **Backend, MLOps & Cloud:** Python, FastAPI, Docker, SQL (PostgreSQL, MySQL), AWS, Google Cloud Platform (GCP), Linux, Git, `uv`
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="40" alt="PostgreSQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
 </div>
-
-###
 
 <br>
 
-
-
-
-
-
-
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-                  
-  <br>
-
-  
-  
-  
-<table border="0" align="center">
-<tr border="0">
-<td width="50%" align="center">
- 
-  <p align= "center">
-  <img height= "200" src="https://github-readme-stats.vercel.app/api?username=maqboolkazmii&theme=react&show_icons=true&include_all_commits=true" />
-</p>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=maqboolkazmii&theme=dark&hide_border=true" />
-
-
-
-
-
-
-
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>  
-                                                                                    
-
-
-
-
-
-
-
- 
-
-
-  <div align="center">
-  <h3><b>Can Connect With Me On😄 </b></h3>
-  </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/maqboolkazmi">
-  <img align="center" alt="Maqbool Kazmi | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/maqboolkaxmi">
-  <img align="center" alt="Maqbool Kazmi | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:sm.kaxmi@gmail.com" >
-  <img align="center" alt="Maqbool Kazmi | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/maqboolkazmii">
-    <img align="center" alt="Maqbool Kazmi | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
-</a> &nbsp;&nbsp;
-<p>
-  
-<br>
-  
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
-<!-- retro visitor counter -->  
-<p align="center" > 
-<!--     <p align="left"> <img src="https://komarev.com/ghpvc/?username=maqboolkazmii" alt="maqboolkazmii" /> </p>  -->
-  <img src="https://profile-counter.glitch.me/maqboolkazmii/count.svg" />  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
-   
-  
-  
-  
-  
+
+<table border="0" align="center">
+  <tr>
+    <td align="center">
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=maqboolkazmii&theme=react&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=maqboolkazmii&theme=dark&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+<div align="center">
+  <h3><b>Connect With Me</b></h3>
+  <p>
+    <a href="https://www.linkedin.com/in/maqboolkazmi">
+      <img align="center" alt="Maqbool Kazmi | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    </a> &nbsp;&nbsp;&nbsp;
+    <a href="https://www.kaggle.com/maqboolkaxmi">
+      <img align="center" alt="Maqbool Kazmi | Kaggle" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" />
+    </a> &nbsp;&nbsp;&nbsp;
+    <a href="mailto:sm.kaxmi@gmail.com">
+      <img align="center" alt="Maqbool Kazmi | Gmail" width="28px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+    </a>
+  </p>
+</div>
+
+<div align="center">
+  <h3><b>📍 Profile Views</b></h3>
+  <img src="https://komarev.com/ghpvc/?username=maqboolkazmii&color=blue&style=flat-square" alt="Profile Views" />
+</div>
+
 <div align="center">
 
-  ### "Fear can hold you prisoner, Hope can set you free" 
+  ### "Fear can hold you prisoner, hope can set you free."
 
 </div>
-  
-  
-  
-
-
-
-
-
-------
-
-[Maqbool Kazmi](https://github.com/maqboolkazmii)
-
-
-
-
-------
-
-
