@@ -10,19 +10,20 @@
 
 ## <img align="center" height="45px" src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif"> About Me <a id="about"></a>
 
-- 🚀 **AI Engineer & Data Scientist** at **Machine Learning1 Pvt. Ltd**, building low-latency LLM systems, Agentic AI workflows, and production Computer Vision pipelines.
-- 🐳 **Container & Inference Optimization:** Reduced a **75 GB Docker image to under 5 GB** (>93% reduction) for **NIST FRTE/FRVT (1:1 & 1:N) Face Recognition** benchmarks, and cut LLM inference latency from **4.0s to <1.5s** via quantization and **vLLM**.
+- 🚀 **AI Engineer & Data Scientist** at **Machine Learning1 Pvt. Ltd**, specializing in LLM fine-tuning, structured document extraction, Agentic AI workflows, and production inference optimization.
+- 📄 **Global Document Intelligence & Legacy Consolidation:** Replaced **3,000+ individual Mask R-CNN models** (one per global card format) with a **single unified fine-tuned LLaMA-3 pipeline** for structured OCR-to-JSON extraction worldwide. Benchmarked multiple open-source LLMs (selecting **LLaMA-3** over Qwen), accelerated ground-truth dataset curation using **Gemini** paired with **DEO human-in-the-loop verification**, downsized from **8B to 3B**, applied **FP16 quantization**, and deployed via **vLLM**—cutting latency from **4.0s to <1.5s**, reducing compute by **40%**, and drastically shrinking model maintenance overhead.
+- 🐳 **Container & Biometrics Optimization:** Reduced a **75 GB Docker image to under 5 GB** (>93% reduction) for **NIST FRTE/FRVT (1:1 & 1:N) Face Recognition** benchmarks without sacrificing throughput.
+- 🔍 **Enterprise RAG & Evaluation:** Built Human-in-the-Loop Retrieval-Augmented Generation (**RAG**) pipelines with automated **DeepEval** quality benchmarks (faithfulness, contextual precision/recall, and answer relevancy).
 - 🛠️ **Agentic AI & Tooling:** Architected and deployed **130+ Model Context Protocol (MCP) tools** for secure enterprise agent tool-calling (**Barie AI**).
-- 🔍 **Enterprise RAG & Evaluation:** Built Human-in-the-Loop compliance RAG pipelines (**Shufti 2.0** for KYC/KYB/AML) with automated **DeepEval** quality benchmarks and fine-tuned **LLaMA-3 / Qwen-2** models across 2,200+ document types (cutting compute by 40%).
 - 🎓 **BS in Computer Science** from **COMSATS University Islamabad (CUI)** | **2025 Aspire Leaders Program Fellow**.
-- 💬 Always open to discussing **LLMs, Agentic AI (MCP), RAG Evaluation, MLOps, and Inference Optimization**.
+- 💬 Always open to discussing **LLMs, Structured JSON Extraction, Agentic AI (MCP), RAG Evaluation, and Inference Optimization**.
 
 <p><img align="right" width="260px" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="AI Engineering" /></p>
 
 ## 🛠 Tech Stack & Core Tools
 
-- **AI / LLMs & Agents:** PyTorch, TensorFlow, LangChain, LangGraph, Model Context Protocol (MCP), vLLM, DeepEval, Hugging Face (LLaMA-3, Qwen-2)
-- **Computer Vision:** OpenCV, Ultralytics YOLO, NIST Face Recognition (1:1 & 1:N), OCR & Document Intelligence
+- **AI / LLMs & Agents:** PyTorch, TensorFlow, LangChain, LangGraph, Model Context Protocol (MCP), vLLM, DeepEval, Gemini API, Hugging Face (LLaMA-3 8B / 3B, Qwen-2), FP16 Quantization
+- **Computer Vision & OCR:** OpenCV, Ultralytics YOLO, Mask R-CNN, NIST Face Recognition (1:1 & 1:N), OCR Post-Processing & Structured JSON Extraction
 - **Backend, MLOps & Cloud:** Python, FastAPI, Docker, SQL (PostgreSQL, MySQL), AWS, Google Cloud Platform (GCP), Linux, Git, `uv`
 
 <div align="left">
@@ -54,46 +55,4 @@
 <br>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-<table border="0" align="center">
-  <tr>
-    <td align="center">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=maqboolkazmii&theme=react&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=maqboolkazmii&theme=dark&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-<div align="center">
-  <h3><b>Connect With Me</b></h3>
-  <p>
-    <a href="https://www.linkedin.com/in/maqboolkazmi">
-      <img align="center" alt="Maqbool Kazmi | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-    </a> &nbsp;&nbsp;&nbsp;
-    <a href="https://www.kaggle.com/maqboolkaxmi">
-      <img align="center" alt="Maqbool Kazmi | Kaggle" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" />
-    </a> &nbsp;&nbsp;&nbsp;
-    <a href="mailto:sm.kaxmi@gmail.com">
-      <img align="center" alt="Maqbool Kazmi | Gmail" width="28px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-    </a>
-  </p>
-</div>
-
-<div align="center">
-  <h3><b>📍 Profile Views</b></h3>
-  <img src="https://komarev.com/ghpvc/?username=maqboolkazmii&color=blue&style=flat-square" alt="Profile Views" />
-</div>
-
-<div align="center">
-
-  ### "Fear can hold you prisoner, hope can set you free."
-
-</div>
+  <img src="
